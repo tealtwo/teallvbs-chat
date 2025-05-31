@@ -134,7 +134,7 @@ Teal Lvbs Chat represents the next evolution in secure communication platforms. 
       </td>
       <td align="center">
         <h4>🚫 Zero Knowledge</h4>
-        <p>We can't read your messages, ever</p>
+        <p>We can't read your messages, like, ever</p>
       </td>
       <td align="center">
         <h4>🔑 Your Keys</h4>
@@ -151,10 +151,10 @@ Teal Lvbs Chat represents the next evolution in secure communication platforms. 
 | Layer | Technologies |
 |-------|-------------|
 | **Frontend** | React 18 • TypeScript • Vite • Tailwind CSS • Framer Motion |
-| **Backend** | Node.js • Express • Socket.io • TypeScript |
-| **Database** | PostgreSQL 15+ |
+| **Backend** | Node.js • Express • Socket.io • TypeScript | JavaScript | FastUI
+| **Database** | PostgreSQL 15+ | MongoDB |
 | **Security** | Web Crypto API • JWT • bcrypt • RSA-OAEP • AES-GCM |
-| **DevOps** | Docker • NGINX • SSL/TLS |
+| **DevOps** | Docker • NGINX • SSL/TLS | Cloudflare Anti-DDOS Protection
 
 </div>
 
@@ -173,14 +173,10 @@ Teal Lvbs Chat represents the next evolution in secure communication platforms. 
   
   ### 🔔 Get Notified of Updates
   
-  Visit [chat.teallvbs.xyz](https://chat.teallvbs.xyz) daily to experience the latest features and improvements!
+  Visit [chat.teallvbs.xyz](https://chat.teallvbs.xyz)!
   
   <br>
   
-  <p>
-    <strong>Join the revolution in secure communication.</strong><br>
-    <em>Teal Lvbs Chat - Where Privacy Meets Performance</em>
-  </p>
   
 </div>
 
