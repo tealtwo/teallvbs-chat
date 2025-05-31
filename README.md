@@ -17,7 +17,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Status-Alpha%20Development-ff6b6b?style=flat-square" alt="Alpha">
     <img src="https://img.shields.io/badge/Regular-Updates-4ecdc4?style=flat-square" alt="Regular Updates">
-    <img src="https://img.shields.io/badge/LightWeight?style=flat-square&logo=typescript&logoColor=white" alt="Light Weight">
+    <img src="https://img.shields.io/badge/LightWeight-100%25-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="Light Weight">
     <img src="https://img.shields.io/badge/Encryption-E2E-success?style=flat-square&logo=shield&logoColor=white" alt="E2E Encryption">
   </p>
 </div>
