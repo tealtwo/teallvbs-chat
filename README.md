@@ -1,7 +1,7 @@
 # 🌊 Velyra Chat
 <div align="center">
   
-  ![Velyra Chat Banner](https://img.shields.io/badge/Teal%20Lvbs-Chat-008080?style=for-the-badge&logo=discord&logoColor=white)
+  ![Velyra Chat Banner](https://img.shields.io/badge/Velyra-Chat-008080?style=for-the-badge&logo=discord&logoColor=white)
   
   <p align="center">
     <strong>A revolutionary Discord-inspired chat platform with military-grade end-to-end encryption</strong>
