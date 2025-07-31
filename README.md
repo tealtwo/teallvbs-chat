@@ -1,5 +1,4 @@
-# 🌊 Teal Lvbs Chat
-
+# 🌊 Velyra Chat
 <div align="center">
   
   ![Teal Lvbs Chat Banner](https://img.shields.io/badge/Teal%20Lvbs-Chat-008080?style=for-the-badge&logo=discord&logoColor=white)
