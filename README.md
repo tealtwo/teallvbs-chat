@@ -48,7 +48,7 @@ Velyra Chat represents the next evolution in secure communication platforms. Bui
 <td width="50%">
 
 ### 🔐 Unbreakable Security
-- **Military-grade E2E Encryption** 
+- **Tight E2E Encryption** 
 - **Zero-Knowledge Architecture**
 - **RSA-2048 Key Exchange**
 - **AES-GCM Message Encryption**
