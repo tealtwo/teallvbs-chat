@@ -8,7 +8,7 @@
   </p>
   
   <p align="center">
-    <a href="https://chat.teallvbs.xyz">
+    <a href="https://velyra.xyz">
       <img src="https://img.shields.io/badge/🚀%20Sign%20Up-velyra.xyz-40E0D0?style=for-the-badge" alt="Live Demo">
     </a>
   </p>
