@@ -1,7 +1,7 @@
 # 🌊 Velyra Chat
 <div align="center">
   
-  ![Teal Lvbs Chat Banner](https://img.shields.io/badge/Teal%20Lvbs-Chat-008080?style=for-the-badge&logo=discord&logoColor=white)
+  ![Velyra Chat Banner](https://img.shields.io/badge/Teal%20Lvbs-Chat-008080?style=for-the-badge&logo=discord&logoColor=white)
   
   <p align="center">
     <strong>A revolutionary Discord-inspired chat platform with military-grade end-to-end encryption</strong>
@@ -30,16 +30,16 @@
     <tr>
       <td align="center">
         <h3>⚡ We're in Alpha!</h3>
-        <p>Teal Lvbs Chat is currently in <strong>active alpha development</strong>. We're pushing updates daily to bring you the most secure and feature-rich chat experience.</p>
+        <p>Velyra Chat is currently in <strong>active alpha development</strong>. We're pushing updates daily to bring you the most secure and feature-rich chat experience.</p>
         <p><strong>Expect frequent updates, new features, and continuous improvements!</strong></p>
       </td>
     </tr>
   </table>
 </div>
 
-## 🌟 What is Teal Lvbs Chat?
+## 🌟 What is Velyra Chat?
 
-Teal Lvbs Chat represents the next evolution in secure communication platforms. Built from the ground up with privacy and security at its core, it combines the familiar Discord-like interface with uncompromising end-to-end encryption. Whether you're collaborating with your team, chatting with friends, or building communities, your conversations remain truly private.
+Velyra Chat represents the next evolution in secure communication platforms. Built from the ground up with privacy and security at its core, it combines the familiar Discord-like interface with uncompromising end-to-end encryption. Whether you're collaborating with your team, chatting with friends, or building communities, your conversations remain truly private.
 
 ## ✨ Features
 
@@ -90,12 +90,12 @@ Teal Lvbs Chat represents the next evolution in secure communication platforms. 
 </tr>
 </table>
 
-## 🚀 Experience Teal Lvbs Chat
+## 🚀 Experience Velyra Chat
 
 <div align="center">
   <h2>
-    <a href="https://chat.teallvbs.xyz">
-      🌐 Launch Teal Lvbs Chat
+    <a href="https://velyra.xyz">
+      🌐 Launch Velyra Chat
     </a>
   </h2>
   <p><em>No downloads. No installations. Just secure communication.</em></p>
@@ -157,7 +157,7 @@ Teal Lvbs Chat represents the next evolution in secure communication platforms. 
 
 </div>
 
-## 🌈 Why Teal Lvbs?
+## 🌈 Why Velyra?
 
 - **🎯 Privacy First**: Your conversations are yours alone
 - **⚡ Lightning Fast**: Real-time communication without compromises
@@ -172,7 +172,7 @@ Teal Lvbs Chat represents the next evolution in secure communication platforms. 
   
   ### 🔔 Get Notified of Updates
   
-  Visit [chat.teallvbs.xyz](https://chat.teallvbs.xyz)!
+  Visit [velyra.xyz](https://velyra.xyz)!
   
   <br>
   
@@ -183,7 +183,7 @@ Teal Lvbs Chat represents the next evolution in secure communication platforms. 
 
 <div align="center">
   <p>
-    <strong>Teal Lvbs Chat</strong> © 2024-2025<br>
-    <em>Building the future of secure communication, one update at a time.</em>
+    <strong>Velyra Chat</strong> © 2024-2025<br>
+    <em>Building secure communication, one update at a time.</em>
   </p>
 </div>
